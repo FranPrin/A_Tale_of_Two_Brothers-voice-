@@ -1,0 +1,11 @@
+author="The Gnat, Heindal"
+description="The Tale of Two Brothers modified to allow voice acting. YOU MUST ALSO DOWNLOAD A VOICE PACK THIS ALONE DOES NOT INCLUDE THE VOICE ACTING."
+email="frankpr2015@gmail.com"
+icon="halo/holy/halo2.png~BLIT(icons/icon-music.png~CROP(18,18,40,50),50,20)~BLIT(units/human-loyalists/knight/knight.png~RC(magenta>red))"
+passphrase="wjbczmsz"
+title="The Tale of Two Brothers [+voices]"
+type="campaign"
+version=0.2.1
+[feedback]
+	topic_id=44592
+[/feedback]
